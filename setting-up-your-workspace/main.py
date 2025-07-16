@@ -1,0 +1,1 @@
+print("I'm ready to be a Python pwerhouse! I've got this, and Skillcrush is here to back me up.")
